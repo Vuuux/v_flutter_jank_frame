@@ -1,4 +1,4 @@
-# flutter_jank_frame
+# v_flutter_jank_frame by V
 
 Flutter demo app to show how to detect jank in DevTools and how targeted changes improve frame performance.
 
@@ -13,9 +13,9 @@ This app is a performance playground for profiling UI-thread jank in Flutter. It
 
 Everything is implemented in `lib/main.dart`.
 
-<img width="540" height="1170" alt="Screenshot_20260728_025053" src="https://github.com/user-attachments/assets/c9016c64-a34b-4eb7-a784-3a25573284ed" />
-
 ## UI controls and behavior
+
+<img width="540" height="1170" alt="Screenshot_20260728_025053" src="https://github.com/user-attachments/assets/c9016c64-a34b-4eb7-a784-3a25573284ed" />
 
 ### Mode switch
 
