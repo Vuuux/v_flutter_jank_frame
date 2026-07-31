@@ -81,14 +81,12 @@ Extra baseline-only diagnostics:
 ## Run
 
 ```zsh
-cd /Users/loc_huu.h/StudioProjects/flutter_jank_frame
 flutter run --debug
 ```
 
 For realistic performance results, use profile mode:
 
 ```zsh
-cd /Users/loc_huu.h/StudioProjects/flutter_jank_frame
 flutter run --profile
 ```
 
